@@ -1,1 +1,1 @@
-# ✨This is youngjoo's fun, cool and sexy KWEB week 1 assignment repo✨
+# ✨This is youngjoo's KWEB week 1 assignment repo✨
